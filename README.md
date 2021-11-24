@@ -1,4 +1,7 @@
-# Super-Mario-Bros
+# Super Mario Bros
 Remake of the original Super Mario Bros game.
 
-Here's the video explaining how I did it: https://youtu.be/7D4uoSoQsjw
+![demo](https://cdn.jsdelivr.net/gh/justsong-lab/images/misc/mario.png)
+
+## How to build
+Please refer to https://github.com/justsong-lab/Tetris#how-to-build

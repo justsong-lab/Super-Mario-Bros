@@ -1,3 +1,5 @@
+#include <cmath>
+#include <algorithm>
 #pragma once
 
 constexpr float GOOMBA_SPEED = 1;
